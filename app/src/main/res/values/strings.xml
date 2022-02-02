@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aplication Sample</string>
+    <string name="menu">menu</string>
+    <string name="registration">Registration</string>
+    <string name="admin">Admin</string>
+</resources>
